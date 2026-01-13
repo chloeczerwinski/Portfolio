@@ -2,9 +2,10 @@
 
 Chloe Czerwinski
 
-Hello, here are some coding projects I worked on:
-
-Here's an example of some code I wrote for a [manufacturing supplier decision problem] (Czerwinski_Chloe_Midterm.html)
+Hello, here are some coding projects I worked on.
 
 Questions? Email me at:
 chloeczerwinski15@gmail.com or cac750@pitt.edu
+
+Feel free to check out more about me:
+https://www.notion.so/chloe-czerwinski-50b75afc707a4ac98bbcb6f23b1a030e?source=copy_link
