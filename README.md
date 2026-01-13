@@ -1,2 +1,5 @@
 # Portfolio
-Hello, here are some projects I worked on:
+
+Chloe Czerwinski
+
+Hello, here are some coding projects I worked on:
