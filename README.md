@@ -2,6 +2,8 @@
 
 Chloe Czerwinski
 
+~ relocating... TBD ~
+
 Hello, here are some coding projects I worked on.
 
 Questions? Email me at:
