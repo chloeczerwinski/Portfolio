@@ -4,7 +4,7 @@ Chloe Czerwinski
 
 ~ relocating... TBD ~
 
-Hello, here are some coding projects I worked on.
+Hello, here are some projects I worked on.
 
 Questions? Email me at:
 chloeczerwinski15@gmail.com or cac750@pitt.edu
