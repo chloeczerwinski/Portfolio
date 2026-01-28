@@ -22,8 +22,13 @@ Currently back in school for a Master of Data Science.
 **Description:** Survey using SPSS Statistics Anova and Chi-square tables.  
 **Skills used:** SPSS Statistics
 
-### 📊 *Weather to Rent a Bicycle*
-**Description:** Report on analysis of bicycle company patterns and suggestions.  
+### 🚴 *Philly Cycle Dataset*
+Dataset used for the bicycle rental analysis project.
+**Skills used:** Excel Data analysis, data cleaning, pivot tables,charts/plots, comparative analysis
+**Download Excel:** [PhillyCycle Data](https://github.com/chloeczerwinski/Portfolio/raw/main/PhillyCycle%20Data%20czerwinski.xlsx)  
+
+### 🚴 *Weather to Rent a Bicycle*
+**Description:** PDF Report on analysis of bicycle company patterns and suggestions.  
 **Skills used:** Data analysis, charts/plots, summary reporting in Excel
 
 ---
